@@ -1,3 +1,3 @@
 # web-platform-kbqtjs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-kbqtjs)
+live demo: https://web-platform-kbqtjs.stackblitz.io

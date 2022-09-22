@@ -1,3 +1,3 @@
 # web-platform-kbqtjs
 
-live demo: https://web-platform-kbqtjs.stackblitz.io
+live demo: https://peterekb.github.io/sign-up-page/

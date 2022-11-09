@@ -1,3 +1,3 @@
-# web-platform-kbqtjs
+# **Sign Up Page**
 
-live demo: https://peterekb.github.io/sign-up-page/
+**Live demo:** _https://peterekb.github.io/sign-up-page/_
